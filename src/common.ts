@@ -1,0 +1,4 @@
+const ACCU_WEATHER_KEY = "UA9sijROFifsPObgaZo4IxEFGWJkn0x7";
+const OPEN_WEATHER_KEY = "d2ccc2aa7acd077ba8fcb41af61765fa";
+
+export { ACCU_WEATHER_KEY, OPEN_WEATHER_KEY };
